@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sinatra Band CRUD app"
-date:   2017-09-02 23:09:34 +0000
+date:   2017-09-02 19:09:36 -0400
 ---
 
 
